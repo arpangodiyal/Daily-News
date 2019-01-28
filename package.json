@@ -1,0 +1,23 @@
+{
+  "name": "news",
+  "version": "1.0.0",
+  "description": "News web app",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack",
+    "start": "http-server"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-es2015": "^6.24.1",
+    "newsapi": "^2.4.0",
+    "webpack": "^4.28.3"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.2.1"
+  },
+  "author": "Arpan Godiyal",
+  "license": "ISC"
+}
